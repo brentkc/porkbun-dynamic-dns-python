@@ -1,0 +1,4 @@
+{ "endpoint":"https://api-ipv4.porkbun.com/api/json/v3",
+  "apikey": "pk1_8d7d8023c10cb5b481e2bc7ba34af2ea2b286279312d8436bc36757c58b94a8f",
+  "secretapikey": "sk1_bf01dac432dbba393deae8492bc93a18f608b77c41aac2e6d58b2b263902ba17"
+}
